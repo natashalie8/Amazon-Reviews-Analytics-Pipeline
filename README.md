@@ -1,4 +1,3 @@
-# amazon-reviews-analytics-pipeline
 # Amazon Reviews Analytics Pipeline
 
 This repository showcases scalable data analytics projects on large Amazon review datasets.  
